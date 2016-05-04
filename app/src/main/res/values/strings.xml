@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Olimpiadas</string>
+    <string name="nome">Name</string>
+    <string name="home_titulo">Olimpiadas</string>
+    <string name="idade">Idade</string>
+    <string name="choose_modalidade">Escolha uma modalidade</string>
+    <string name="periodo">Período</string>
+    <string name="periodo_manha">Manhã (8h - 12h)</string>
+    <string name="periodo_tarde">Tarde (13h - 18h)</string>
+    <string name="periodo_noite">Noite (19h - 23h)</string>
+    <string name="reservar">Reservar</string>
+    <string name="confirmar">Confirmar</string>
+    <string-array name="array_modality">
+        <item>Atletismo</item>
+        <item>Basquetebol</item>
+        <item>Futebol</item>
+        <item>Ginástica Artistica</item>
+        <item>Ginástica Ritmica</item>
+        <item>Nado Sincronizado</item>
+        <item>Natação</item>
+        <item>Voleibol</item>
+        <item>Tênis</item>
+    </string-array>
+</resources>
